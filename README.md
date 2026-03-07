@@ -484,6 +484,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[OpenAI](https://github.com/pierrebrunelle/mcp-server-openai)** - Query OpenAI models directly from Claude using MCP protocol
 - **[OpenAPI Schema Explorer](https://github.com/kadykov/mcp-openapi-schema-explorer)** - Token-efficient access to OpenAPI/Swagger specs via MCP Resources
 - **[OpenMF-mifosx-self-service](https://github.com/openMF/mcp-mifosx-self-service)** - Access Apache Fineract self-service APIs for registration, authentication, account management, and transactions via MCP.
+- **[Orwell Observatory](https://github.com/nicoletterankin/orwell-observatory)** - 15 anti-Orwellian defense tools: doublespeak analysis, threat registry, country risk, surveillance tracking, whistleblower protection, media provenance verification, and more.
 - **[Package Registry Search](https://github.com/artmann/package-registry-mcp)** - Search and get up-to-date information about NPM, Cargo, PyPi, and NuGet packages.
 - **[Pandoc](https://github.com/vivekVells/mcp-pandoc)** - MCP server for seamless document format conversion using Pandoc, supporting Markdown, HTML, and plain text, with other formats like PDF, csv and docx in development.
 - **[Paperless-MCP](https://github.com/baruchiro/paperless-mcp)** - An MCP server for interacting with a Paperless-NGX API server. This server provides tools for managing documents, tags, correspondents, and document types in your Paperless-NGX instance.
